@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Cards</string>
+    <string name="action_instructions">Инструкции</string>
+    <string name="action_cadrs_list">Список карт</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_other_cards">OtherCardsActivity</string>
+    <string name="title_activity_cards_list">CardsListActivity</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
